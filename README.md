@@ -21,7 +21,9 @@ The application consumes APIs (real or mocked) and presents a clean, modern UI w
 ✔️ Clean component structure & reusable UI components
 
 ✔️ API integration (mock or real backend)
+
 📁 Project Structure
+
 companies-directory/
 │── src/
 │   ├── components/
@@ -41,6 +43,7 @@ companies-directory/
 │   └── index.js
 │
 └── README.md
+
 🛠️ Technologies Used
 
 | Technology                | Purpose                   |
@@ -71,9 +74,13 @@ import companies from "../data/companies.json";
 <img width="1805" height="880" alt="image" src="https://github.com/user-attachments/assets/116bd413-ed58-448b-85c7-70ff2195e6e6" />
 
 🙌 Author
+
 B Praveen Kumar
+
 Java Full Stack Developer
+
 📧 bpraveen8040@gmail.com
+
 
 
 
