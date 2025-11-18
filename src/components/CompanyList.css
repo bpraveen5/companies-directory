@@ -1,0 +1,32 @@
+.company-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;          /* Space between cards */
+}
+
+/* Each card size rules */
+.company-item {
+  flex: 1 1 calc(25% - 24px);   /* 4 cards per row */
+  display: flex;
+}
+
+/* Medium screen (tablet) — 3 cards per row */
+@media (max-width: 1024px) {
+  .company-item {
+    flex: 1 1 calc(33.33% - 24px);
+  }
+}
+
+/* Small screen — 2 cards per row */
+@media (max-width: 768px) {
+  .company-item {
+    flex: 1 1 calc(50% - 24px);
+  }
+}
+
+/* Mobile — 1 card per row */
+@media (max-width: 480px) {
+  .company-item {
+    flex: 1 1 100%;
+  }
+}

@@ -1,0 +1,32 @@
+/* Main container spacing */
+.header-container {
+  margin-bottom: 24px;
+}
+
+/* Paper box styling */
+.header-paper {
+  padding: 16px 24px;
+  margin-bottom: 16px;
+  border-radius: 12px;
+}
+
+/* Header top section */
+.header-top {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+/* Logo box "C.D" */
+.header-logo {
+  width: 56px;
+  height: 56px;
+  background-color: #1976d2; /* MUI primary color */
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

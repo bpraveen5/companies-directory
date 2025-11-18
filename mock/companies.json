@@ -1,0 +1,704 @@
+[
+  {
+    "id": 1,
+    "name": "TCS",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "50,000+",
+    "description": "Global leader in IT services, consulting, and business solutions.",
+    "logoUrl": "https://logo.clearbit.com/tcs.com",
+    "website": "https://www.tcs.com"
+  },
+  {
+    "id": 2,
+    "name": "Infosys",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "30,000+",
+    "description": "Consulting, outsourcing, and digital transformation services.",
+    "logoUrl": "https://logo.clearbit.com/infosys.com",
+    "website": "https://www.infosys.com"
+  },
+  {
+    "id": 3,
+    "name": "Wipro",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "25,000+",
+    "description": "Global technology and business process consulting company.",
+    "logoUrl": "https://logo.clearbit.com/wipro.com",
+    "website": "https://www.wipro.com"
+  },
+  {
+    "id": 4,
+    "name": "Capgemini",
+    "location": "Hyderabad, India",
+    "industry": "Consulting",
+    "employees": "10,000+",
+    "description": "A global leader in consulting, digital transformation, and technology.",
+    "logoUrl": "https://logo.clearbit.com/capgemini.com",
+    "website": "https://www.capgemini.com"
+  },
+  {
+    "id": 5,
+    "name": "Accenture",
+    "location": "Hyderabad, India",
+    "industry": "Consulting",
+    "employees": "20,000+",
+    "description": "Leading company in strategy, consulting, and digital technology.",
+    "logoUrl": "https://logo.clearbit.com/accenture.com",
+    "website": "https://www.accenture.com"
+  },
+  {
+    "id": 6,
+    "name": "Cognizant",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "18,000+",
+    "description": "Global provider of IT, consulting, and business process services.",
+    "logoUrl": "https://logo.clearbit.com/cognizant.com",
+    "website": "https://www.cognizant.com"
+  },
+  {
+    "id": 7,
+    "name": "HCL Technologies",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "15,000+",
+    "description": "Global IT services and technology solutions provider.",
+    "logoUrl": "https://logo.clearbit.com/hcltech.com",
+    "website": "https://www.hcltech.com"
+  },
+  {
+    "id": 8,
+    "name": "Tech Mahindra",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "22,000+",
+    "description": "Specializes in digital transformation, consulting, and business re-engineering.",
+    "logoUrl": "https://logo.clearbit.com/techmahindra.com",
+    "website": "https://www.techmahindra.com"
+  },
+  {
+    "id": 9,
+    "name": "Amazon Development Center",
+    "location": "Hyderabad, India",
+    "industry": "E-commerce / Cloud",
+    "employees": "25,000+",
+    "description": "Amazon's largest campus focusing on AWS, marketplace, and AI.",
+    "logoUrl": "https://logo.clearbit.com/amazon.com",
+    "website": "https://www.amazon.jobs"
+  },
+  {
+    "id": 10,
+    "name": "Google Hyderabad",
+    "location": "Hyderabad, India",
+    "industry": "IT",
+    "employees": "10,000+",
+    "description": "Google’s largest campus outside the US.",
+    "logoUrl": "https://logo.clearbit.com/google.com",
+    "website": "https://careers.google.com"
+  },
+
+  {
+    "id": 11,
+    "name": "Microsoft India",
+    "location": "Hyderabad, India",
+    "industry": "Software",
+    "employees": "15,000+",
+    "description": "Microsoft's largest R&D center outside headquarters.",
+    "logoUrl": "https://logo.clearbit.com/microsoft.com",
+    "website": "https://careers.microsoft.com"
+  },
+
+  {
+    "id": 12,
+    "name": "Oracle",
+    "location": "Hyderabad, India",
+    "industry": "Software",
+    "employees": "9,000+",
+    "description": "Database and enterprise software solutions provider.",
+    "logoUrl": "https://logo.clearbit.com/oracle.com",
+    "website": "https://www.oracle.com"
+  },
+
+  {
+    "id": 13,
+    "name": "Deloitte",
+    "location": "Hyderabad, India",
+    "industry": "Consulting",
+    "employees": "20,000+",
+    "description": "Global leader in consulting and audit services.",
+    "logoUrl": "https://logo.clearbit.com/deloitte.com",
+    "website": "https://www2.deloitte.com"
+  },
+
+  {
+    "id": 14,
+    "name": "EY",
+    "location": "Hyderabad, India",
+    "industry": "Consulting",
+    "employees": "8,000+",
+    "description": "Assurance, consulting, and tax services.",
+    "logoUrl": "https://logo.clearbit.com/ey.com",
+    "website": "https://www.ey.com"
+  },
+
+  {
+    "id": 15,
+    "name": "KPMG",
+    "location": "Hyderabad, India",
+    "industry": "Consulting",
+    "employees": "6,000+",
+    "description": "Audit, tax, and advisory firm.",
+    "logoUrl": "https://logo.clearbit.com/kpmg.com",
+    "website": "https://home.kpmg"
+  },
+
+  {
+    "id": 16,
+    "name": "IBM",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "12,000+",
+    "description": "Leading IT and cloud solutions provider.",
+    "logoUrl": "https://logo.clearbit.com/ibm.com",
+    "website": "https://www.ibm.com"
+  },
+
+  {
+    "id": 17,
+    "name": "Hexaware",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "5,000+",
+    "description": "IT, BPO, and consulting services.",
+    "logoUrl": "https://logo.clearbit.com/hexaware.com",
+    "website": "https://hexaware.com"
+  },
+
+  {
+    "id": 18,
+    "name": "Virtusa",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "6,000+",
+    "description": "Digital engineering and IT services provider.",
+    "logoUrl": "https://logo.clearbit.com/virtusa.com",
+    "website": "https://www.virtusa.com"
+  },
+
+  {
+    "id": 19,
+    "name": "Genpact",
+    "location": "Hyderabad, India",
+    "industry": "BPO / IT",
+    "employees": "20,000+",
+    "description": "Global professional services firm.",
+    "logoUrl": "https://logo.clearbit.com/genpact.com",
+    "website": "https://www.genpact.com"
+  },
+
+  {
+    "id": 20,
+    "name": "ADP",
+    "location": "Hyderabad, India",
+    "industry": "HR Tech",
+    "employees": "4,000+",
+    "description": "Payroll, HR, and workforce software.",
+    "logoUrl": "https://logo.clearbit.com/adp.com",
+    "website": "https://www.adp.com"
+  },
+
+  {
+    "id": 21,
+    "name": "Qualcomm",
+    "location": "Hyderabad, India",
+    "industry": "Semiconductors",
+    "employees": "3,000+",
+    "description": "Leader in mobile chipset design.",
+    "logoUrl": "https://logo.clearbit.com/qualcomm.com",
+    "website": "https://www.qualcomm.com"
+  },
+
+  {
+    "id": 22,
+    "name": "NVIDIA",
+    "location": "Hyderabad, India",
+    "industry": "AI / Semiconductors",
+    "employees": "2,000+",
+    "description": "Leading AI and GPU technology company.",
+    "logoUrl": "https://logo.clearbit.com/nvidia.com",
+    "website": "https://www.nvidia.com"
+  },
+
+  {
+    "id": 23,
+    "name": "Salesforce",
+    "location": "Hyderabad, India",
+    "industry": "Cloud Computing",
+    "employees": "3,000+",
+    "description": "CRM and cloud-based software company.",
+    "logoUrl": "https://logo.clearbit.com/salesforce.com",
+    "website": "https://www.salesforce.com"
+  },
+
+  {
+    "id": 24,
+    "name": "ServiceNow",
+    "location": "Hyderabad, India",
+    "industry": "Cloud Software",
+    "employees": "2,500+",
+    "description": "Digital workflow and enterprise automation solutions.",
+    "logoUrl": "https://logo.clearbit.com/servicenow.com",
+    "website": "https://www.servicenow.com"
+  },
+
+  {
+    "id": 25,
+    "name": "Mindtree",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "8,000+",
+    "description": "Global IT consulting and digital transformation company.",
+    "logoUrl": "https://logo.clearbit.com/mindtree.com",
+    "website": "https://www.mindtree.com"
+  },
+
+  {
+    "id": 26,
+    "name": "Hitachi Vantara",
+    "location": "Hyderabad, India",
+    "industry": "Software / Data",
+    "employees": "3,000+",
+    "description": "Data management and cloud solutions provider.",
+    "logoUrl": "https://logo.clearbit.com/hitachivantara.com",
+    "website": "https://www.hitachivantara.com"
+  },
+
+  {
+    "id": 27,
+    "name": "DXC Technology",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "7,000+",
+    "description": "IT modernization and digital transformation company.",
+    "logoUrl": "https://logo.clearbit.com/dxc.com",
+    "website": "https://www.dxc.com"
+  },
+
+  {
+    "id": 28,
+    "name": "Uber Hyderabad",
+    "location": "Hyderabad, India",
+    "industry": "Tech",
+    "employees": "1,500+",
+    "description": "Engineering and backend systems development center.",
+    "logoUrl": "https://logo.clearbit.com/uber.com",
+    "website": "https://www.uber.com"
+  },
+
+  {
+    "id": 29,
+    "name": "Zomato",
+    "location": "Hyderabad, India",
+    "industry": "Food Tech",
+    "employees": "1,000+",
+    "description": "Food delivery and restaurant search platform.",
+    "logoUrl": "https://logo.clearbit.com/zomato.com",
+    "website": "https://www.zomato.com"
+  },
+
+  {
+    "id": 30,
+    "name": "Swiggy",
+    "location": "Hyderabad, India",
+    "industry": "Food Tech",
+    "employees": "3,000+",
+    "description": "Online food delivery and quick-commerce company.",
+    "logoUrl": "https://logo.clearbit.com/swiggy.com",
+    "website": "https://www.swiggy.com"
+  },
+
+  {
+    "id": 31,
+    "name": "PhonePe",
+    "location": "Hyderabad, India",
+    "industry": "Fintech",
+    "employees": "1500+",
+    "description": "UPI payments and financial technology platform.",
+    "logoUrl": "https://logo.clearbit.com/phonepe.com",
+    "website": "https://www.phonepe.com"
+  },
+
+  {
+    "id": 32,
+    "name": "Paytm",
+    "location": "Hyderabad, India",
+    "industry": "Fintech",
+    "employees": "2000+",
+    "description": "Payments, banking, and financial services.",
+    "logoUrl": "https://logo.clearbit.com/paytm.com",
+    "website": "https://www.paytm.com"
+  },
+
+  {
+    "id": 33,
+    "name": "BYJU'S",
+    "location": "Hyderabad, India",
+    "industry": "EdTech",
+    "employees": "1200+",
+    "description": "Education technology and online learning platform.",
+    "logoUrl": "https://logo.clearbit.com/byjus.com",
+    "website": "https://www.byjus.com"
+  },
+
+  {
+    "id": 34,
+    "name": "OYO",
+    "location": "Hyderabad, India",
+    "industry": "Hospitality",
+    "employees": "1500+",
+    "description": "Global hotel aggregation and travel platform.",
+    "logoUrl": "https://logo.clearbit.com/oyorooms.com",
+    "website": "https://www.oyorooms.com"
+  },
+
+  {
+    "id": 35,
+    "name": "Uber Eats India (support)",
+    "location": "Hyderabad, India",
+    "industry": "Food Tech",
+    "employees": "500+",
+    "description": "Support and tech operations.",
+    "logoUrl": "https://logo.clearbit.com/ubereats.com",
+    "website": "https://www.ubereats.com"
+  },
+
+  {
+    "id": 36,
+    "name": "EPAM Systems",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "5,000+",
+    "description": "Product engineering and digital consulting.",
+    "logoUrl": "https://logo.clearbit.com/epam.com",
+    "website": "https://www.epam.com"
+  },
+
+  {
+    "id": 37,
+    "name": "CGI",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "employees": "4,000+",
+    "description": "IT consulting and system integration services.",
+    "logoUrl": "https://logo.clearbit.com/cgi.com",
+    "website": "https://www.cgi.com"
+  },
+
+  {
+    "id": 38,
+    "name": "Fiserv",
+    "location": "Hyderabad, India",
+    "industry": "Fintech",
+    "employees": "2,500+",
+    "description": "Global financial technology solutions provider.",
+    "logoUrl": "https://logo.clearbit.com/fiserv.com",
+    "website": "https://www.fiserv.com"
+  },
+
+  {
+    "id": 39,
+    "name": "Synchrony Financial",
+    "location": "Hyderabad, India",
+    "industry": "Fintech",
+    "employees": "1,800+",
+    "description": "Consumer banking and financial services.",
+    "logoUrl": "https://logo.clearbit.com/synchrony.com",
+    "website": "https://www.synchrony.com"
+  },
+
+  {
+    "id": 40,
+    "name": "FactSet",
+    "location": "Hyderabad, India",
+    "industry": "Finance / Analytics",
+    "employees": "2,200+",
+    "description": "Financial data and software solutions.",
+    "logoUrl": "https://logo.clearbit.com/factset.com",
+    "website": "https://www.factset.com"
+  },
+
+  {
+    "id": 41,
+    "name": "Invesco",
+    "location": "Hyderabad, India",
+    "industry": "Finance",
+    "employees": "1,500+",
+    "description": "Global investment management firm.",
+    "logoUrl": "https://logo.clearbit.com/invesco.com",
+    "website": "https://www.invesco.com"
+  },
+
+  {
+    "id": 42,
+    "name": "Novartis",
+    "location": "Hyderabad, India",
+    "industry": "Pharma",
+    "employees": "6000+",
+    "description": "Healthcare and pharmaceutical research.",
+    "logoUrl": "https://logo.clearbit.com/novartis.com",
+    "website": "https://www.novartis.com"
+  },
+
+  {
+    "id": 43,
+    "name": "Dr. Reddy’s",
+    "location": "Hyderabad, India",
+    "industry": "Pharma",
+    "employees": "8000+",
+    "description": "Indian multinational pharmaceutical company.",
+    "logoUrl": "https://logo.clearbit.com/drreddys.com",
+    "website": "https://www.drreddys.com"
+  },
+
+  {
+    "id": 44,
+    "name": "Curefit",
+    "location": "Hyderabad, India",
+    "industry": "Health & Fitness",
+    "employees": "1000+",
+    "description": "Fitness, wellness and tech platform.",
+    "logoUrl": "https://logo.clearbit.com/cult.fit",
+    "website": "https://www.cult.fit"
+  },
+
+  {
+    "id": 45,
+    "name": "Redbus",
+    "location": "Hyderabad, India",
+    "industry": "Travel Tech",
+    "employees": "600+",
+    "description": "Bus ticket booking platform.",
+    "logoUrl": "https://logo.clearbit.com/redbus.in",
+    "website": "https://www.redbus.in"
+  },
+
+  {
+    "id": 46,
+    "name": "Freshworks",
+    "location": "Hyderabad, India",
+    "industry": "SaaS",
+    "employees": "900+",
+    "description": "Customer support and CRM SaaS solutions.",
+    "logoUrl": "https://logo.clearbit.com/freshworks.com",
+    "website": "https://www.freshworks.com"
+  },
+
+  {
+    "id": 47,
+    "name": "Zoho",
+    "location": "Hyderabad, India",
+    "industry": "SaaS",
+    "employees": "2000+",
+    "description": "Business applications suite provider.",
+    "logoUrl": "https://logo.clearbit.com/zoho.com",
+    "website": "https://www.zoho.com"
+  },
+
+  {
+    "id": 48,
+    "name": "T-Hub",
+    "location": "Hyderabad, India",
+    "industry": "Startup Incubator",
+    "employees": "300+",
+    "description": "India's largest startup incubator.",
+    "logoUrl": "https://logo.clearbit.com/thub.co",
+    "website": "https://www.t-hub.co"
+  },
+
+  {
+    "id": 49,
+    "name": "Firstsource",
+    "location": "Hyderabad, India",
+    "industry": "BPO",
+    "employees": "2500+",
+    "description": "Business process management solutions.",
+    "logoUrl": "https://logo.clearbit.com/firstsource.com",
+    "website": "https://www.firstsource.com"
+  },
+
+  {
+    "id": 50,
+    "name": "ValueMomentum",
+    "location": "Hyderabad, India",
+    "industry": "IT Consulting",
+    "employees": "3000+",
+    "description": "Technology services for insurance and healthcare.",
+    "logoUrl": "https://logo.clearbit.com/valuemomentum.com",
+    "website": "https://www.valuemomentum.com"
+  },
+  {
+      "id": 51,
+      "name": "Frontlines Media",
+      "location": "Hyderabad, India",
+      "industry": "Education",
+      "size": "100-300",
+      "foundedYear": 2014,
+      "website": "https://frontlinesmedia.example.com",
+      "description": "A leading media and education platform focused on career guidance, training, and industry exposure."
+    },
+    {
+      "id": 53,
+      "name": "TechWorks",
+      "location": "Bangalore, India",
+      "industry": "IT",
+      "size": "200-500",
+      "foundedYear": 2010,
+      "website": "https://techworks.example.com",
+      "description": "An IT services company specializing in cloud solutions, software development, and digital transformation."
+    },
+    {
+      "id": 54,
+      "name": "FinCorp",
+      "location": "Mumbai, India",
+      "industry": "Finance",
+      "size": "500-1000",
+      "foundedYear": 2005,
+      "website": "https://fincorp.example.com",
+      "description": "A financial services company offering investment, insurance, and wealth management solutions."
+    },
+    {
+      "id": 55,
+      "name": "HealthPlus",
+      "location": "Delhi, India",
+      "industry": "Healthcare",
+      "size": "300-800",
+      "foundedYear": 2012,
+      "website": "https://healthplus.example.com",
+      "description": "A healthcare provider delivering modern medical services, diagnostics, and patient wellness programs."
+    },
+    {
+      "id": 56,
+      "name": "RetailHub",
+      "location": "Remote",
+      "industry": "Retail",
+      "size": "1000-2000",
+      "foundedYear": 2018,
+      "website": "https://retailhub.example.com",
+      "description": "An online-first retail platform focused on delivering high–quality consumer products worldwide."
+    },
+
+    {
+      "id": 57,
+      "name": "TechVision Solutions",
+      "location": "San Francisco, USA",
+      "industry": "Technology",
+      "size": "500-1000",
+      "foundedYear": 2015,
+      "website": "https://techvision.example.com",
+      "description": "Leading provider of AI-powered enterprise solutions."
+    },
+    {
+      "id": 58,
+      "name": "GreenEarth Industries",
+      "location": "Berlin, Germany",
+      "industry": "Renewable Energy",
+      "size": "1000-5000",
+      "foundedYear": 2012,
+      "website": "https://greenearth.example.com",
+      "description": "Sustainable energy solutions for the future."
+    },
+    {
+      "id": 59,
+      "name": "FinanceFlow Corp",
+      "location": "London, UK",
+      "industry": "Finance",
+      "size": "200-500",
+      "foundedYear": 2018,
+      "website": "https://financeflow.example.com",
+      "description": "Modern banking and financial services platform."
+    },
+    {
+      "id": 60,
+      "name": "HealthCare Plus",
+      "location": "Toronto, Canada",
+      "industry": "Healthcare",
+      "size": "100-200",
+      "foundedYear": 2019,
+      "website": "https://healthcareplus.example.com",
+      "description": "Digital healthcare solutions and telemedicine services."
+    },
+    {
+      "id": 61,
+      "name": "EduTech Global",
+      "location": "Singapore",
+      "industry": "Education",
+      "size": "50-100",
+      "foundedYear": 2020,
+      "website": "https://edutech.example.com",
+      "description": "Online learning platform for professional development."
+    },
+
+    {
+      "id": 62,
+      "name": "Hyderabad, India Tech Labs",
+      "location": "Hyderabad, India",
+      "industry": "Software",
+      "size": "300-600",
+      "foundedYear": 2016,
+      "website": "https://hydtechlabs.example.com",
+      "description": "A modern software development company specializing in SaaS products."
+    },
+    {
+      "id": 63,
+      "name": "CyberCity Innovations",
+      "location": "Hyderabad, India",
+      "industry": "Cybersecurity",
+      "size": "150-300",
+      "foundedYear": 2017,
+      "website": "https://cybercity.example.com",
+      "description": "Cybersecurity solutions provider offering threat detection and prevention services."
+    },
+    {
+      "id": 64,
+      "name": "Bangalore AI Systems",
+      "location": "Bangalore, India",
+      "industry": "Artificial Intelligence",
+      "size": "400-900",
+      "foundedYear": 2014,
+      "website": "https://baitech.example.com",
+      "description": "AI-driven product development company offering automation and ML platforms."
+    },
+    {
+      "id": 65,
+      "name": "Noida Web Services",
+      "location": "Noida, India",
+      "industry": "Web Development",
+      "size": "100-250",
+      "foundedYear": 2013,
+      "website": "https://noidaweb.example.com",
+      "description": "Full-service web development and digital solutions provider."
+    },
+    {
+      "id": 66,
+      "name": "Mumbai Data Corp",
+      "location": "Mumbai, India",
+      "industry": "Data Analytics",
+      "size": "500-1200",
+      "foundedYear": 2011,
+      "website": "https://mumbaidata.example.com",
+      "description": "Data analytics and cloud engineering services for enterprises."
+    },
+    {
+      "id": 67,
+      "name": "Chennai Robotics",
+      "location": "Chennai, India",
+      "industry": "Robotics",
+      "size": "200-400",
+      "foundedYear": 2018,
+      "website": "https://chennairobotics.example.com",
+      "description": "Company building intelligent robots for industrial automation."
+    }
+]
