@@ -24,6 +24,7 @@ The application consumes APIs (real or mocked) and presents a clean, modern UI w
 
 📁 Project Structure
 
+```
 companies-directory/
 │── src/
 │   ├── components/
@@ -43,7 +44,7 @@ companies-directory/
 │   └── index.js
 │
 └── README.md
-
+```
 🛠️ Technologies Used
 
 | Technology                | Purpose                   |
@@ -80,6 +81,7 @@ B Praveen Kumar
 Java Full Stack Developer
 
 📧 bpraveen8040@gmail.com
+
 
 
 
